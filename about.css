@@ -57,5 +57,28 @@
 .content-section .content .button a:hover{
     background-color: #a52a2a;
     color: #fff;
+    }
+#navigation1{
+    width: 300px;
+    height: 60px;
+    border: 2px;
+    position: absolute;
+    left:1009.5px;
+    top: 1px;
+    margin-top: 1px;
+    margin-left: 9x;
+    align-content: center;
+    border-radius: 15px;
+    background-image: url(why-choose-us-businessman-holding-600nw-1431803342.webp);
+    opacity: 90%;
+}
+.anchorlink{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    text-decoration: solid;
+}
+.anchorlink:hover{
+    cursor: hand;
     
 }
